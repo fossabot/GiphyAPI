@@ -3,6 +3,8 @@
 </p>
 
 # Giphy API Documentation
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FGiphyAPI.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FGiphyAPI?ref=badge_shield)
+
 
 Giphy is an animated [GIF](http://en.wikipedia.org/wiki/Graphics_Interchange_Format) search engine.
 
@@ -1746,3 +1748,7 @@ Failed responses return a JSON response with a <b>400</b> error code):
 ## Sharing and Promoting your Giphy API Project
 
 Projects that leverage the Giphy API can be submitted to [Giphy labs](http://giphy.com/labs). Learn more about [Giphy labs](http://giphy.com/labs).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FGiphyAPI.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FGiphyAPI?ref=badge_large)
